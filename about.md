@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hi, my name is John. I work as Software Engineer at Magic Leap working on production computer vision.
+In my free time I like to learn, read, write (primarily C++ and English), and be outside. 
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+I hope to keep this blog up-to-date with things I learn and find interesting. Honestly, I don't expect
+many people to stumble upon this so it will mainly be for my own future reference. But if people
+do manage to find this site and find it useful, I will be sure to quickly put up a paywall.
